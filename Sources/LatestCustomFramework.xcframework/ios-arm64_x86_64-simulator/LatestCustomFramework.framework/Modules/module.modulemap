@@ -1,0 +1,6 @@
+framework module LatestCustomFramework {
+  umbrella header "LatestCustomFramework.h"
+  export *
+
+  module * { export * }
+}
